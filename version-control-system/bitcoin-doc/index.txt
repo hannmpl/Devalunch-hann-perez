@@ -8,3 +8,8 @@ grupo bajo el seudónimo de Satoshi Nakamoto. A diferencia del dinero tradiciona
   que registra todas las transacciones de manera segura y transparente.
  Bitcoin permite enviar y recibir dinero a nivel mundial de forma rápida, sin intermediarios, y ofrece la posibilidad de almacenar valor digitalmente.
 
+Bitcoin funciona gracias a la tecnología de blockchain, una especie de libro co
+ntable digital donde se registran todas las transacciones. Cada “bloque” de la c
+adena contiene información sobre transacciones recientes y está conectado al bl
+oque anterior, lo que hace que sea prácticamente imposible modificar los regist
+ros sin que se note.
