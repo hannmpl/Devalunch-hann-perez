@@ -1,0 +1,32 @@
+proporcionar una explicación detallada en un archivo .txt de las acciones realizas
+al cocinar un huevo.
+
+SOLUCIÓN:
+ir a la cocina
+agarrar un sartén y lavarlo
+encender el gas
+agarrar el encendedor y 
+prender la cocina
+colocar el sarten 
+agarrar el aceite
+si es mantequilla:
+abrir la refri , agarrar la mentequilla y cerrar la refri
+agarrar el huevo
+si es quieres hacer una torta de huevo:
+-Agarrar una tazon y un tenedor
+-quebrar el huevo y echarlo en el tazon
+-ponerle sal al gusto
+-batirlo
+-echarlo en el sarten
+-dejarlo cocinar
+si es huevo picado:
+-quebrar el huevo
+-echarlo en el sarten
+-batrilo mientras se cocina
+-sal al gusto
+si es huevo frito:
+-quebrar el huevo 
+-echarlo al sarten
+-dejar cocinar al gusto
+-sal al gusto
+agarrar un plato y servirlo
