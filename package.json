@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/hannmpl/Devalunch-hann-perez/issues"
   },
-  "homepage": "https://github.com/hannmpl/Devalunch-hann-perez#readme"
-}
+  "homepage": "https://github.com/hannmpl/Devalunch-hann-perez#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+ }
